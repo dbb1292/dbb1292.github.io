@@ -1,0 +1,6 @@
+name: Devotional Articles
+
+markdown: redcarpet
+pygments: true
+
+exclude: [Gemfile, Gemfile.lock]
