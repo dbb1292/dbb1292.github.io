@@ -1,4 +1,6 @@
 name: Devotional Articles
+description: Articles to uplift and encourage you.
+url: devotionalarticles.com
 
 markdown: redcarpet
 pygments: true
