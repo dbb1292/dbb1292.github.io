@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Devotional Articles - Home
+title: Devotions Home
 ---
 
-Blog Posts
-==========
+<h2 class="post_title">Articles</h2>
 
 <ul class="posts">
   {% for post in site.posts %}

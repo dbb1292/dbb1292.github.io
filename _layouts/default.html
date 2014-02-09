@@ -20,16 +20,23 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
+	    <span class="extra">{{ site.description }}</span>
           </div>
-
-          {{ content }}
-
+	  
+	  <div class="content">
+            {{ content }}
+	  </div>
+	  
           <div class="footer">
             <div class="contact">
               <p>
                 Daniel Baker<br />
-                Former Pastor / Writer<br />
+                Writer & Former Pastor<br />
+		Wheaton Alum - BS 1977, MA 1982
+	      </p>
+	    </div>
+	    <div class="rss">
+	      <p>
 		<a href="/feed.xml">RSS</a>
               </p>
             </div>
