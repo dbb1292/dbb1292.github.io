@@ -9,7 +9,6 @@ exclude: [Gemfile, Gemfile.lock]
 
 prose:
   rooturl: "_posts"
-  siteurl: "https://devotionalarticles.com"
   media: "img"
   metadata:
     _posts:
@@ -29,7 +28,7 @@ prose:
          field:
            element: "select"
            label: "Category"
-           options: {"name":"article", "value":"article"}
+           options: {"name":"articles", "value":"articles"}
        - name: "tags"
          field:
            element: "multiselect"
