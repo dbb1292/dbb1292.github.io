@@ -38,8 +38,8 @@ prose:
 	   options:
 	     - name: 'story'
 	       value: 'story'
-	     - name: 'Wheaton'
-	       value: 'wheaton'
+             - name: 'Wheaton'
+               value: 'wheaton'
        - name: "author"
          field:
            element: "text"
