@@ -1,11 +1,12 @@
 ---
 layout: post
 published: false
-title: ""
+title: Untitled
 category: articles
 author: Daniel Baker
 tags: 
   - something
+date: "2014-02-16"
 ---
 
 ## A New Post
