@@ -7,6 +7,7 @@ author: Daniel Baker
 tags: 
   - story
   - wheaton
+  - Foo
 ---
 
 ## A New Post
