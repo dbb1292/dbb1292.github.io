@@ -28,7 +28,11 @@ prose:
          field:
            element: "select"
            label: "Category"
-           options: {"name":"articles", "value":"articles"}
+           options:
+             - name: "articles"
+               value: "articles"
+             - name: "news"
+               value: "news"
        - name: "tags"
          field:
            element: "multiselect"
