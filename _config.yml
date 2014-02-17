@@ -35,6 +35,11 @@ prose:
            label: "Add Tags"
            placeholder: "Choose Tags"
            alterable: true
+	   options:
+	     - name: 'story'
+	       value: 'story'
+	     - name: 'Wheaton'
+	       value: 'wheaton'
        - name: "author"
          field:
            element: "text"
