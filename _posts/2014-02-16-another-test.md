@@ -1,13 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: Another test
 category: articles
 author: Daniel Baker
 tags: 
   - story
   - wheaton
-  - Foo
+date: "2012-04-02"
 ---
 
 ## A New Post
