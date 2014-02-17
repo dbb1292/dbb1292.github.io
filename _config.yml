@@ -41,9 +41,3 @@ prose:
            element: "text"
            label: "Author"
            value: "Daniel Baker"
-       - name: "published"
-         field:
-           element: "button"
-           label: "Published"
-           on: "Published"
-           off: "Unpublished"
