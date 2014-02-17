@@ -24,6 +24,7 @@ prose:
          field:
            element: "text"
            label: "Date"
+	   placeholder: "Must be yyyy-mm-dd format"
        - name: "category"
          field:
            element: "select"
@@ -33,17 +34,6 @@ prose:
                value: "articles"
              - name: "news"
                value: "news"
-       - name: "tags"
-         field:
-           element: "multiselect"
-           label: "Add Tags"
-           placeholder: "Choose Tags"
-           alterable: true
-           options:
-             - name: 'story'
-               value: 'story'
-             - name: 'Wheaton'
-               value: 'wheaton'
        - name: "author"
          field:
            element: "text"
