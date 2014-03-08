@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: There really is a right and a wrong way to do things.
 category: articles
 author: Daniel Baker
