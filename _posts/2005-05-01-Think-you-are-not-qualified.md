@@ -1,10 +1,17 @@
-Think You're Not Qualified To Work For God?
+---
+layout: post
+published: false
+title: "Think You're Not Qualified To Work For God?"
+category: articles
+author: Daniel Baker
+---
 
 When people get turned down for jobs, loans, and programs they applied for one common reason given is: "you just are not qualified?"  In so much of today's world what is important is do you have the right degrees or certifications. As a result, if you do not have them you can have trouble even being noticed. Worse, you can start feeling as if you are worthless and dumb.
 
 What if God approached you like that? You applied to Him for forgiveness and he rejects you. What if God said back, "Sorry, but your sacrifice was not big enough" or "Sorry, but you did not say it right?" If that happened, where would you be? Well, you would be in a lot of trouble!
 
-Fortunately, God is not like that. He is incredibly gracious, takes us where we are and then gives us "on the job training" to get us moving toward the goal of being like Jesus. As He tells us, "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness. ... My dear children, I write this to you so that you will not sin. But if anybody does sin, we have one who speaks to the Father in our defense-Jesus Christ, the Righteous One. He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world." {1 John 1:9-2:2}
+Fortunately, God is not like that. He is incredibly gracious, takes us where we are and then gives us "on the job training" to get us moving toward the goal of being like Jesus. As He tells us,
+> "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness. ... My dear children, I write this to you so that you will not sin. But if anybody does sin, we have one who speaks to the Father in our defense-Jesus Christ, the Righteous One. He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world." {1 John 1:9-2:2}
 
 I find it incredible and encouraging that we have a God who will take care of our sins, forgive us, and purify us like this. As I read the Bible, I also find it almost unbelievable whom He chooses for important tasks. Take the task of spokesman for the early Jerusalem Church. This is a very sensitive role. You have to be able to think quickly and respond politely. A well-rounded education so you can speak in a cultured and smooth way is essential. Also having the ability to "beat around the bush" when asked questions definitely is a plus.
 
