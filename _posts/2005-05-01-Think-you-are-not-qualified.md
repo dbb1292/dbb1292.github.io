@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Think You're Not Qualified To Work For God?"
 category: articles
 author: Daniel Baker
