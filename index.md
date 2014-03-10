@@ -9,13 +9,13 @@ title: Home - God and You
     {% for post in site.posts %}
       {% if post.category == "featured" %}
         <li>
-	<span class="date">{{ post.date | date: "%Y" }}</span>
-	<a class="link_title" href="{{ post.url }}">{{ post.title }}</a>
 	<ul class="tags">
 	  {% for tag in post.tags %}
 	    <li>{{ tag }}</li>
 	  {% endfor %}
 	</ul>
+	<span class="date">{{ post.date | date: "%Y" }}</span>
+	<a class="link_title" href="{{ post.url }}">{{ post.title }}</a>
 	<div>
           {{ post.excerpt }}
 	  <a class="moreLink" href="{{ post.url }}">read more</a>
