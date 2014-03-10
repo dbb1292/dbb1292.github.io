@@ -8,8 +8,19 @@ title: Home - God and You
 <ul class="posts">
     {% for post in site.posts %}
       {% if post.category == "featured" %}
-        <li><span class="date">{{ post.date | date: "%Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a>
-	<p>{{ post.excerpt }}</p></li>
+        <li>
+	<span class="date">{{ post.date | date: "%Y" }}</span>
+	<a class="link_title" href="{{ post.url }}">{{ post.title }}</a>
+	<ul class="tags">
+	  {% for tag in post.tags %}
+	    <li>{{ tag }}</li>
+	  {% endfor %}
+	</ul>
+	<div>
+          {{ post.excerpt }}
+	  <a class="moreLink" href="{{ post.url }}">read more</a>
+	</div>
+	</li>
       {% endif %}
     {% endfor %}
 </ul>
@@ -18,6 +29,14 @@ title: Home - God and You
 
 <ul class="posts">
   {% for post in site.categories.articles %}
-    <li><span class="date">{{ post.date | date: "%Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>
+      <span class="date">{{ post.date | date: "%Y" }}</span>
+      <a class="link_title" href="{{ post.url }}">{{ post.title }}</a>
+      <ul class="tags">
+        {% for tag in post.tags %}
+	  <li>{{ tag }}</li>
+        {% endfor %}
+      </ul>
+    </li>
   {% endfor %}
 </ul>
