@@ -33,20 +33,13 @@ a:visited { color: #BAF; }
 /* Home
 /*****************************************************************************/
 .date {
-    width: 35px;
-    overflow: hidden;
-    display: inline-block;
-    white-space: nowrap;
     color: #aaa;
     font-family: Monaco, "Courier New", monospace;
     font-size: 100%;
-    vertical-align: top;
 }
 .posts a {
     font-size: 120%;
-    display: inline-block;
     margin-left: 10px;
-    vertical-align: top;    
 }
 .posts {
   list-style-type: none;
