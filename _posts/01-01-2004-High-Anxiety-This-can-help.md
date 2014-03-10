@@ -26,5 +26,5 @@ Relying on the certainty of God's caring presence and blessing is a much better 
 Practice the strength of the caring presence of God not the weakness of anxiety.
 
 
-Written by Rev. Daniel B. Baker January 2004
+Written by Rev. Daniel B. Baker January 2004 Updated March 2014
 
