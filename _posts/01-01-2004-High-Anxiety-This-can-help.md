@@ -1,12 +1,10 @@
 ---
 layout: post
 published: true
-title: Untitled
+title: High anxiety – This can help
 category: articles
 author: Daniel Baker
 ---
-
-High anxiety – This can help
 
 We all know the Bible tells us to "not be anxious about anything" {Philippians 4:6a}. Yet we are anxious about things and much of life promotes anxiety. Take the news for example. One morning I did a quick survey of the headlines on Yahoo.com news and Foxnews.com, they included these topics: Violence in Iraq, Terrorism, Mad Cow disease, and Political turmoil. Somehow natural disasters, and economic trouble had not made the list. I know that like most people, I can generate enough anxiety on my own; I do not need the news to help me like that.
 
