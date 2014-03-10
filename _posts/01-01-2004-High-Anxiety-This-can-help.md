@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Untitled
 category: articles
 author: Daniel Baker
