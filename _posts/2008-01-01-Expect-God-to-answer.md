@@ -25,4 +25,4 @@ So I need to be much more consistent about praying with expectation. Even then, 
 
 Think about it, this might just be the thing to help you pray with more faith too.
 
-Written by Rev Daniel Baker January 2008  Updated March 2014
+Written by Rev Daniel Baker January 2008   Updated March 2014
