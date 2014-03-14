@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Do You Expect God to Answer Your Prayers?"?
+title: "Do You Expect God to Answer Your Prayers?"
 category: articles
 author: Daniel Baker
 ---
