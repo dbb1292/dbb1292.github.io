@@ -112,6 +112,13 @@ a:visited { color: #BAF; }
   font-weight: bold;
   text-decoration: none;
 }
+.header .menu {
+    list-style: none;
+    float: right;
+}
+.menu a {
+    color: #7AF;
+}
 
 .title {
   display: inline-block;
