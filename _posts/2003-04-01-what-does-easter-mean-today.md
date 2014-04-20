@@ -3,7 +3,9 @@ layout: post
 published: true
 title: What the Resurrection Means Today
 category: articles
-tags: Easter, hope
+tags: 
+- Easter
+- hope
 author: Daniel Baker
 --- 
 
