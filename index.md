@@ -30,13 +30,13 @@ title: Home - God and You
 <ul class="posts">
   {% for post in site.categories.articles %}
     <li>
-      <span class="date">{{ post.date | date: "%Y" }}</span>
-      <a class="link_title" href="{{ post.url }}">{{ post.title }}</a>
       <ul class="tags">
         {% for tag in post.tags %}
 	  <li>{{ tag }}</li>
         {% endfor %}
       </ul>
+      <span class="date">{{ post.date | date: "%Y" }}</span>
+      <a class="link_title" href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
