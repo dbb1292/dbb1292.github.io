@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Cover to Cover
+title: Digging deep opens up a big lesson
 category: articles
 tags: 
   - cultural context, Genesis 16, Abraham, Belief
