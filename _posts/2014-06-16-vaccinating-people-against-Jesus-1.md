@@ -1,4 +1,13 @@
-Vaccinating people against Jesus – 1
+---
+layout: post
+published: true
+title: Vaccinating people against Jesus – 1
+category: articles
+tags: 
+  - evangelism, bad behavior,
+author: Daniel Baker
+date: "2014-06-16"
+---
 
 Something happened at a picnic I was recently at that reminded me of an important lesson a speaker at Wheaton College taught me. His main point went like this: Jesus told us to go and make disciples yet too many Christians are going around vaccinating people against Jesus. They do this by how they evangelize, treat others, and live their daily lives. The tragic result is that they end up chasing folks away from Jesus and these individuals rarely ever come back to him. That vaccination image stuck with me and I hope it will stay in your mind as well.
 
