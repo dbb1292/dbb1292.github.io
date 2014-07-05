@@ -3,6 +3,7 @@ layout: post
 published: true
 title: There really is a right and a wrong way to do things.
 category: articles
+tags: Judging, Discernment, Helping others
 author: Daniel Baker
 date: "2008-08-01"
 ---
