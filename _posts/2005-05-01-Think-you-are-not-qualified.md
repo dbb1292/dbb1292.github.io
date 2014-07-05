@@ -3,7 +3,9 @@ layout: post
 published: true
 title: "Think You're Not Qualified To Work For God?"
 category: articles
+tags; Acceptance by God; 
 author: Daniel Baker
+date: 2005-05-01
 ---
 
 When people get turned down for jobs, loans, and programs they applied for one common reason given is: "you just are not qualified?"  In so much of today's world what is important is do you have the right degrees or certifications. As a result, if you do not have them you can have trouble even being noticed. Worse, you can start feeling as if you are worthless and dumb.
