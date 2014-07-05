@@ -3,7 +3,9 @@ layout: post
 published: true
 title: "Do You Expect God to Answer Your Prayers?"
 category: articles
+tags: Prayer, Faith, Expectation
 author: Daniel Baker
+date: 2008-01-01
 ---
 
 The topic of faith and prayer can be a real guilt trip. You likely know what I mean, a preacher, or a super pious person brings up a passage like Matthew 21:21-22... 
