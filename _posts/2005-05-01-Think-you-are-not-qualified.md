@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Think You're Not Qualified To Work For God?"
 category: articles
-tags; Acceptance by God, 
+tags; Acceptance by God 
 author: Daniel Baker
 date: "2005-05-01"
 ---
