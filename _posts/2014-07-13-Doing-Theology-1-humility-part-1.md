@@ -16,11 +16,17 @@ A professor put like this: All theology is flawed! Simply because we are fallibl
 
 This idea of our flawed thinking when it comes to God reflects the thought in Isaiah 55 verses 6, 8, and 9
   Seek the LORD while He may be found;
+  
   Call upon Him while He is near. …
+  
   For My thoughts are not your thoughts, 
+  
   Nor are your ways My ways,” declares the LORD. 
+  
   For as the heavens are higher than the earth,
+  
   So are My ways higher than your ways
+  
   And My thoughts than your thoughts.   (NASB95)
 
 Recognizing this helps guard against a problem that is all too common which is, holding your theology with an arrogant attitude. When an individual takes their beliefs seriously it is all too easy to think they have discovered the TRUTH and all others are in error. Just think of the churches that believe they are the only ones who are saved because, they are the only people who believe correctly.  This problem is widespread, undermines dialog between Christians, hinders our spiritual growth, outreach, and more.
