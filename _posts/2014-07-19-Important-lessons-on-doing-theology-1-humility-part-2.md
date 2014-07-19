@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title:  Important lessons on doing theology - 1 – humility part 1
+title:  Important lessons on doing theology - 1 – humility part 2
 category: articles
 tags: Theology, Humility, Growth, Truth
 author: Daniel Baker
