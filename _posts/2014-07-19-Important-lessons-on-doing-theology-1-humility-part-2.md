@@ -11,7 +11,7 @@ date: " 2014-07-19"
 
 When I was a teenager working at an interdenominational camp for boys I overheard a conversation that impacted my thinking on theology ever since. 
 
-A volunteer who was very anti-Pentecostal, I remember him as Baptist, came up asking loudly, “How can you even let those Pentecostals, with their terrible theology, in here, let alone allow them to work here? After all I know you are NOT Pentecostal.” What followed was what I remember as the familiar anti-Pentecostal rant of about 45 years ago.
+A volunteer who was very anti-Pentecostal, I remember him as Baptist, came up asking loudly, “How can you even let those Pentecostals, with their terrible theology, in here, let alone allow them to work here? After all I know you are NOT Pentecostal.”
 
 The reason this conversation had such an impact was not in the complaint but in the reply. It went something like this, “You are right, I am not Pentecostal and I agree with you that parts of their theology have real problems. However, I also recognize that my theology likely has some blind spots just like theirs does. Because they are coming from a very different viewpoint they might just have parts of truth about God that I might have missed. They are here on the same mission we are, plus they might just have something important we can learn from them. For those reasons and more they are welcome here just as you are.”
 
