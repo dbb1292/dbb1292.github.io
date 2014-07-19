@@ -8,7 +8,6 @@ author: Daniel Baker
 date: " 2014-07-19"
 ---
 
-Important lessons on doing theology #1 – humility part 2
 
 When I was a teenager working at an interdenominational camp for boys I overheard a conversation that impacted my thinking on theology ever since. 
 
