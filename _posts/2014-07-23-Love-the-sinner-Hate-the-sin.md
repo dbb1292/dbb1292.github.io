@@ -3,10 +3,11 @@ layout: post
 published: true
 title:  Love the sinner – Hate the sin: Vaccinating people against Jesus – 2 
 category: articles
-tags: Evangelism, Credibility, Love, Hate, 
+tags: Evangelism, Credibility, Love, Hate 
 author: Daniel Baker
 date: " 2014-07-23 "
 ---
+
 
 “Love the sinner – Hate the sin” is a common phrase in many Christian circles. I have come across many passionate arguments on whether or not it is Biblical. However, that is not my concern in this post. I want you to think with me about the effect it has on the people who hear it, typically people we would like to become followers of Christ.
 
