@@ -24,6 +24,7 @@ However, this phrase can have some benefit to it. That benefit comes about if we
 The “Hate the sin” part has a positive aspect to it as well. Let it remind you to recognize the sin in your own life and the harm you are doing. Then repent of it and get your own life in order. Reflect on Jesus teaching, 
 >Why do you look at the speck that is in your brother’s eye, but do not notice the log that is in your own eye? Or how can you say to your brother, ‘Let me take the speck out of your eye,’ and behold, the log is in your own eye? You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother’s eye. 
  {Matthew 7:3-5}<
+ 
 Doing this will benefit each of us in our own spiritual life. It will also bring in some needed credibility in interacting with others.
 
 So please stop using this phrase in your conversations and stop vaccinating people against Christ. Instead use it as internal reminder to live correctly yourself and to actively love others. 
