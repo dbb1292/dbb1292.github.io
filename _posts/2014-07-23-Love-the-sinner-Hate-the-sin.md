@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title:  Love the sinner - Hate the sin Vaccinating people against Jesus - 2
+title:  Love the sinner - Hate the sin -- Vaccinating people against Jesus - 2
 category: articles
 tags: Evangelism, Credibility, Love, Hate
 author: Daniel Baker
