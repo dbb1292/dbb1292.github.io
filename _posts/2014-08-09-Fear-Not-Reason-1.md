@@ -5,7 +5,7 @@ title:  Do not be afraid - Reason 1
 category: articles
 tags: Fear, Anxiety, Peace, Presence of God 
 author: Daniel Baker
-date: 2014-08-23
+date: 2014-08-09
 ---
 
 You have probably had people tell you “Oh there is nothing to be afraid of.” Whenever I hear that my first thought is, “Now I know there is something to be afraid of.” My second thought is “Why shouldn’t I be afraid?” Usually the answers to that question just reinforce my first thought! Your experience is probably similar to mine. 
