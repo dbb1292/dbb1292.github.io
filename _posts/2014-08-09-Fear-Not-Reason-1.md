@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Do not be afraid - Reason 1"
 category: articles
-tags: "Fear, Anxiety, Peace, Presence of God"
+tags: "Fear, Anxiety, Peace, Presence of God, Isaiah 41:10"
 author: Daniel Baker
 date: 
   - 2014-08-09T00:00:00.000Z
