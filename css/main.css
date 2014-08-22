@@ -116,6 +116,9 @@ a:visited { color: #BAF; }
     list-style: none;
     float: right;
 }
+.header .menu li {
+	display: inline-block;
+}
 .menu a {
     color: #7AF;
 }
