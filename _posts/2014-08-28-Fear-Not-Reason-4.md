@@ -12,17 +12,13 @@ date:
 
 The Bible makes it clear that God does not desire for us to live a life filled with fear and anxiety. In Isaiah 41 we have already seen three reasons why even though life is full of stressful and even alarming events we need not be full of fear and anxiety. These reasons are:
 
-
-	 [#1 – We have the Presence of God with us.](http://devotionalarticles.com/articles/2014/08/08/Fear-Not-Reason-1.html)
-     
+[We have the Presence of God with us.](http://devotionalarticles.com/articles/2014/08/08/Fear-Not-Reason-1.html)
 
 
-     [#2 – We have a Personal God who cares for us.](http://devotionalarticles.com/articles/2014/08/17/Fear-Not-Reason-2.html)
-  
-  
-     
-     [#3 – We have a God who Provides for us.](http://devotionalarticles.com/articles/2014/08/21/Fear-Not-Reason-3.html)
+[We have a Personal God who cares for us.](http://devotionalarticles.com/articles/2014/08/17/Fear-Not-Reason-2.html)
 
+
+[We have a God who Provides for us.](http://devotionalarticles.com/articles/2014/08/21/Fear-Not-Reason-3.html )
 
 
 In this post look with at the fourth reason – **we have a God who Protects us.** 
@@ -78,15 +74,16 @@ Lyrics: FEAR NOT:  Phil Pringle
 
 > Says the Lord.  You'll not  (no way)
 
-    > Be drowned!
+> Be drowned!
     
-    > You'll not  (no way)
+> You'll not  (no way)
     
-    > Be burned!
+> Be burned!
     
-    > For I am with you.
+> For I am with you.
     
-   > [P&W# 121 / @1984 Seam of Gold]
+> [P&W# 121 / @1984 Seam of Gold]
+ 
 
 All Scripture quotes NASB95  
 
