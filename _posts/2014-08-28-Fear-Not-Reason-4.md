@@ -63,17 +63,29 @@ That is why David could write,
 
 Music can often help when nothing else seems to. This song might just be what you need right now ["Fear Not"](http://youtu.be/McLO2iZcbKo)    
 Lyrics: FEAR NOT:  Phil Pringle
+
 > Fear not,  I have redeemed you,
+
 > For I am with you.  I have called you by name.
+
 > Fear not,  Child, you are Mine.
+
 > For I am with you.  When you walk through the waters,
+
 > Fear not,  I will be there
+
 > For I am with you.  And through the flame.
+
 > Says the Lord.  You'll not  (no way)
+
     > Be drowned!
+    
     > You'll not  (no way)
+    
     > Be burned!
+    
     > For I am with you.
+    
    > [P&W# 121 / @1984 Seam of Gold]
 
 All Scripture quotes NASB95  
