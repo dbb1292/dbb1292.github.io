@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
-	<link rel="alternate" type="application/rss+xml" title="Devotional Articles RSS"
+		<link rel="alternate" type="application/rss+xml" title="Devotional Articles RSS"
 	      href="/feed.xml" />
         <meta name="viewport" content="width=device-width">
 
@@ -17,36 +17,37 @@
     </head>
     <body>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }} - {{ site.description }}</a></h1>
-	    <span class="extra">by Daniel Baker</span>
-	    <ul class="menu">
-		  <li><a href="https://www.facebook.com/pages/God-and-You-Articles-to-uplift-and-encourage/511703262296217" class="socicon socicon-facebook"></a></li>
-		  <li><a href="https://twitter.com/DanB1292" class="socicon socicon-twitter"></a></li>
-		  <li><a href="/feed.xml" class="socicon socicon-rss"></a></li>
-	      <li><a href="/bio.html">About</a></li>
-	    </ul>
-          </div>
-	  
-	  <div class="content">
-            {{ content }}
-	  </div>
-	  
-          <div class="footer">
-            <div class="contact">
-              <p>
-                &copy; <a href="/bio.html">Daniel Baker</a><br />
-                Writer & Former Pastor
-	      </p>
-	    </div>
-	    <div class="rss">
-	      <p>
-		<a href="/feed.xml" class="socicon socicon-rss"></a>
-              </p>
-            </div>
-          </div>
+      <div class="site">
+        <div class="header">
+          <h1 class="title"><a href="/">{{ site.name }} - {{ site.description }}</a></h1>
+	      <span class="extra">by Daniel Baker</span>
+	      <ul class="menu">
+			<li><a href="https://www.facebook.com/pages/God-and-You-Articles-to-uplift-and-encourage/511703262296217" class="socicon socicon-facebook"></a></li>
+			<li><a href="https://twitter.com/DanB1292" class="socicon socicon-twitter"></a></li>
+			<li><a href="/feed.xml" class="socicon socicon-rss"></a></li>
+			<li><a href="/bio.html">About</a></li>
+	      </ul>
         </div>
-
+		
+		<div class="content">
+          {{ content }}
+		</div>
+		
+		<div class="footer">
+          <div class="contact">
+			<p>
+              &copy; <a href="/bio.html">Daniel Baker</a><br />
+              Writer & Former Pastor
+			</p>
+	      </div>
+	      <div class="links">
+			<p>
+			  <a href="https://www.facebook.com/pages/God-and-You-Articles-to-uplift-and-encourage/511703262296217" class="socicon socicon-facebook"></a>
+			  <a href="https://twitter.com/DanB1292" class="socicon socicon-twitter"></a>
+			  <a href="/feed.xml" class="socicon socicon-rss"></a>
+			</p>
+          </div>
+		</div>
+      </div>
     </body>
 </html>
