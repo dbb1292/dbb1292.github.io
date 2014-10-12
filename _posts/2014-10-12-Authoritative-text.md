@@ -1,3 +1,13 @@
+---
+layout: post
+published: true
+title:  The Quest for the Authoritative Text
+category: articles
+tags: Bible study, Authoritative text, cultural context, Gensis 1
+author: Daniel Baker
+date:  2014-10-12 
+---
+
 Christians take the Bible seriously, which since it is their Holy Book is a good thing. Just how seriously is reflected in the Statements of Faith which various Denominations, Colleges, Organizations, and Churches have written. This excerpt from Houghton College’s Doctrinal Statement is a good example, “We believe that the Scriptures of the Old and New Testaments are fully inspired of God and inerrant in the original writings, and that they are of supreme and final authority for faith and practice.” 1 
 
 Notice that it says that the Bible is our “supreme and final authority for faith and practice.” This brings up a big question too many people never ask. Since Christians disagree on so many things, what or where is that authority? My answer is that the authority is in the text as originally written. That means the authority lies in the text as communicated to its original audience. To find that authority we have to get into the mindset of the human author and recipient. Only after we complete that difficult task can we tackle the task of interpreting and applying it to our times today. If we impose our concerns, questions, culture, views and even beliefs on the text we are not doing that and drift away from the authoritative text.
