@@ -6,7 +6,7 @@ title:  "The-gift-of-peace"
 category: articles
 tags: Peace, Strength, Anxiety, Fear, Fear not, John 14, Gift 
 author: Daniel Baker
-date:  2015-02-02 
+date:  2015-02-05 
 ---
 	Anxiety is a powerful and all too common emotion. This morning I had it right at the start of my day. I literally woke up with a vague but negative dream that had me trembling with anxiety. Worst of all, the only detail that stood out was that it was tied up with pressures at church. 
 
