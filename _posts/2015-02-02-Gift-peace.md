@@ -2,9 +2,9 @@
 ---
 layout: post
 published: true
-title:  Christ's-gift-of-peace
+title:  The-gift-of-peace
 category: articles
-tags: Peace, Strength, Anxiety, Fear, Fear not, John14, Gift 
+tags: Peace, Strength, Anxiety, Fear, Fear not, John 14, Gift 
 author: Daniel Baker
 date:  2015-02-02 
 ---
