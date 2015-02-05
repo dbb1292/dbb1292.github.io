@@ -2,7 +2,7 @@
 ---
 layout: post
 published: true
-title:  The-gift-of-peace
+title:  "The-gift-of-peace"
 category: articles
 tags: Peace, Strength, Anxiety, Fear, Fear not, John 14, Gift 
 author: Daniel Baker
