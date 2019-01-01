@@ -1,9 +1,15 @@
 ---
 layout: post
 published: true
-title: "Christ’s-great-gift-of-peace"
+title: "Christ’s Great Gift of Peace"
 category: articles
-tags: "Peace, Strength, Anxiety, Fear, Fear not, John 14, Gift"
+tags: 
+ - Peace
+ - Strength
+ - Anxiety
+ - Fear
+ - Fear not
+  - John 14, Gift
 author: Daniel Baker
 date: 
   - 2015-02-02T00:00:00.000Z
