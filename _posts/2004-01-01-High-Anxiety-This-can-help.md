@@ -3,7 +3,10 @@ layout: post
 published: true
 title: High anxiety – This can help
 category: articles
-tags: Anxiety, God's Peace, God's Presence
+tags: 
+ - Anxiety
+ - God's Peace
+ - God's Presence
 author: Daniel Baker
 date: 01-01-2004
 ---
